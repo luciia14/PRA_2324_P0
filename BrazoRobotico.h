@@ -9,7 +9,7 @@ class BrazoRobotico {
 	 bool sujobj;
 
 	public:
-	 BrazoRobotico(double x, double y, double z,bool sujecion);
+	 BrazoRobotico(double x, double y, double z,bool sujobj);
 	 double getx();
 	 double gety();
 	 double getz();
